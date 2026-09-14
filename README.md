@@ -1,4 +1,3 @@
-این را کامل کپی کن و جایگزین کل متن README در گیت‌هاب کن:
 
 ```markdown
 # 🚀 YouTube Trend Analyzer & AI Strategy Bot
